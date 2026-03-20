@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Goyder Furniture</title>
+    <link href="https://aggoyder.github.io/gf-pages/feed.xml" rel="self" />
+    <link href="https://aggoyder.github.io/gf-pages" />
+    <updated>2026-03-20T16:38:17+00:00</updated>
+    <author>
+        <name>Andrew</name>
+    </author>
+    <id>https://aggoyder.github.io/gf-pages</id>
+
+    <entry>
+        <title>TEST PAGE</title>
+        <author>
+            <name>Andrew</name>
+        </author>
+        <link href="https://aggoyder.github.io/gf-pages/test-page.html"/>
+        <id>https://aggoyder.github.io/gf-pages/test-page.html</id>
+
+        <updated>2026-03-20T16:38:17+00:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Test first page
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Test first page</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
